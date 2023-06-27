@@ -1,4 +1,4 @@
-# Face-Controlled-Arknoid
+# Face-Controlled-Arkanoid
 
 ## How to run:
 TODO
